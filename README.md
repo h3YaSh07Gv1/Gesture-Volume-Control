@@ -24,7 +24,7 @@ You can install all dependencies using pip:
 pip install -r requirements.txt
 ```
 
-### `requirements.txt` (example)
+### `requirements.txt`
 
 ```txt
 opencv-python
