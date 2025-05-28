@@ -39,7 +39,7 @@ comtypes
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/GestureVolumeControl.git
+git clone https://github.com/h3YaSh07Gv1/Gesture-Volume-Control.git
 cd GestureVolumeControl
 ```
 
